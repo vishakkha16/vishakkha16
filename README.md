@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @vishakkha16
-- 👀 I’m interested in 
+ <h1 align="center">Hi, I am Vishakkha Dash</h1>
+
+- 
+- 👀 I’m interested in statistics, data visualization
 - 🌱 I’m currently learning : DATA SCIENCE
 - 💞️ I’m looking to collaborate on : PYTHON PROJECTS 
 - 📫 How to reach me : vishakkha16@gmail.com
